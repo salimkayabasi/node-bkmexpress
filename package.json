@@ -1,6 +1,6 @@
 {
   "name": "bkm",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "clint for BKMExpress",
   "main": "index.js",
   "scripts": {
